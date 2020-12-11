@@ -1,3 +1,5 @@
+# with cordova-ios 6.1.0 (01.06.2020) this pluging with cordova-plugin-wkwebview-engine are deprecated
+
 # cordova-plugin-wkwebview-inputfocusfix
 Cordova plugin for fixing auto focus issue of html elements on WKWebView. 
 
